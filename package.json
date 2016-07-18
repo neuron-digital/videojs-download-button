@@ -1,6 +1,6 @@
 {
   "name": "videojs-download-button",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds a download button to control bar",
   "main": "es5/plugin.js",
   "scripts": {
