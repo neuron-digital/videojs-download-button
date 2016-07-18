@@ -1,0 +1,14 @@
+{
+  "name": "videojs-download-button",
+  "author": "Mikhail Khazov mikhail.khazov@gmail.com",
+  "license": "MIT",
+  "main": [
+    "dist/videojs-download-button.css",
+    "dist/videojs-download-button.min.js"
+  ],
+  "keywords": [
+    "videojs",
+    "videojs-plugin"
+  ]
+}
+
